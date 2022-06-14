@@ -13,6 +13,6 @@ commands:
     aliases: ["calc"]
 permissions:
   calculator.command:
-    default: true
+    default: op
     description: "Allows the use of /calculator"
 ...
